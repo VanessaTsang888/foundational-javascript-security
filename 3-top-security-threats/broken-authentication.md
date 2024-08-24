@@ -20,6 +20,10 @@ We should be using HTTPS protocols and user is connected to your site through an
 
 4. Overall auth: Auth0:
 
+### JavaScript Crypto Libraries
+
+For JavaScript, evaluate libraries like Forge, crypto-js (discontinued), and elliptic based on your specific use case and requirements.
+
 Creating roles within our app and providing the proper access rights to these roles should be in our planning when creating our app and authentication practices.
 
 ### Summary
