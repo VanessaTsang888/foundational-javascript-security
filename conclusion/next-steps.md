@@ -1,0 +1,3 @@
+# Next Steps
+
+This course only teaches the basics when it comes to security. We should always be on the look out for new threats, analyse how our code is doing against those threats, and find the best possible fix based on the latest recommendations. Learning security is an ongoing process. Its a good idea to arm ourselves with info by exploring more of the security courses. This will reduce the vulnerbility fo our code. Stay up to date with the latest changes of the programming language we are using to develop our apps to identify what dangers lurk in our code. This make better apps for our users. Share our knowledge with other dev's we work with.
